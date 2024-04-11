@@ -1,4 +1,3 @@
-
 #include "TernaryMassive.h"
 #include "cmath"
 #include "iostream"
